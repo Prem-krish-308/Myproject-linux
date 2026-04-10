@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1775815229,,"wq!"
+|2,0,1775815981,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -29,16 +29,172 @@
 |3,1,0,0,2,0,1775815220,"","This"
 
 # File marks:
-'0  3  2  ~/.git/COMMIT_EDITMSG
-|4,48,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
+'0  46  0  ~/Jenkinsfile
+|4,48,46,0,1775815981,"~/Jenkinsfile"
+'1  12  6  ~/CMakeLists.txt
+|4,49,12,6,1775815962,"~/CMakeLists.txt"
+'2  13  0  ~/tests/test_logic.cpp
+|4,50,13,0,1775815924,"~/tests/test_logic.cpp"
+'3  34  0  ~/src/main.cpp
+|4,51,34,0,1775815874,"~/src/main.cpp"
+'4  3  2  ~/.git/COMMIT_EDITMSG
+|4,52,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  46  0  ~/Jenkinsfile
+|4,39,46,0,1775815981,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1775815975,"~/Jenkinsfile"
+-'  12  6  ~/CMakeLists.txt
+|4,39,12,6,1775815962,"~/CMakeLists.txt"
+-'  12  6  ~/CMakeLists.txt
+|4,39,12,6,1775815962,"~/CMakeLists.txt"
+-'  1  0  ~/CMakeLists.txt
+|4,39,1,0,1775815954,"~/CMakeLists.txt"
+-'  1  0  ~/CMakeLists.txt
+|4,39,1,0,1775815954,"~/CMakeLists.txt"
+-'  13  0  ~/tests/test_logic.cpp
+|4,39,13,0,1775815924,"~/tests/test_logic.cpp"
+-'  13  0  ~/tests/test_logic.cpp
+|4,39,13,0,1775815924,"~/tests/test_logic.cpp"
+-'  13  0  ~/tests/test_logic.cpp
+|4,39,13,0,1775815924,"~/tests/test_logic.cpp"
+-'  13  0  ~/tests/test_logic.cpp
+|4,39,13,0,1775815924,"~/tests/test_logic.cpp"
+-'  1  0  ~/tests/test_logic.cpp
+|4,39,1,0,1775815910,"~/tests/test_logic.cpp"
+-'  1  0  ~/tests/test_logic.cpp
+|4,39,1,0,1775815910,"~/tests/test_logic.cpp"
+-'  1  0  ~/tests/test_logic.cpp
+|4,39,1,0,1775815910,"~/tests/test_logic.cpp"
+-'  1  0  ~/tests/test_logic.cpp
+|4,39,1,0,1775815910,"~/tests/test_logic.cpp"
+-'  34  0  ~/src/main.cpp
+|4,39,34,0,1775815874,"~/src/main.cpp"
+-'  34  0  ~/src/main.cpp
+|4,39,34,0,1775815874,"~/src/main.cpp"
+-'  34  0  ~/src/main.cpp
+|4,39,34,0,1775815874,"~/src/main.cpp"
+-'  34  0  ~/src/main.cpp
+|4,39,34,0,1775815874,"~/src/main.cpp"
+-'  34  0  ~/src/main.cpp
+|4,39,34,0,1775815874,"~/src/main.cpp"
+-'  34  0  ~/src/main.cpp
+|4,39,34,0,1775815874,"~/src/main.cpp"
+-'  34  0  ~/src/main.cpp
+|4,39,34,0,1775815874,"~/src/main.cpp"
+-'  34  0  ~/src/main.cpp
+|4,39,34,0,1775815874,"~/src/main.cpp"
+-'  1  0  ~/src/main.cpp
+|4,39,1,0,1775815858,"~/src/main.cpp"
+-'  1  0  ~/src/main.cpp
+|4,39,1,0,1775815858,"~/src/main.cpp"
+-'  1  0  ~/src/main.cpp
+|4,39,1,0,1775815858,"~/src/main.cpp"
+-'  1  0  ~/src/main.cpp
+|4,39,1,0,1775815858,"~/src/main.cpp"
+-'  1  0  ~/src/main.cpp
+|4,39,1,0,1775815858,"~/src/main.cpp"
+-'  1  0  ~/src/main.cpp
+|4,39,1,0,1775815858,"~/src/main.cpp"
+-'  1  0  ~/src/main.cpp
+|4,39,1,0,1775815858,"~/src/main.cpp"
+-'  1  0  ~/src/main.cpp
+|4,39,1,0,1775815858,"~/src/main.cpp"
+-'  3  2  ~/.git/COMMIT_EDITMSG
+|4,39,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
+-'  3  2  ~/.git/COMMIT_EDITMSG
+|4,39,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
+-'  3  2  ~/.git/COMMIT_EDITMSG
+|4,39,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
+-'  3  2  ~/.git/COMMIT_EDITMSG
+|4,39,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
+-'  3  2  ~/.git/COMMIT_EDITMSG
+|4,39,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
+-'  3  2  ~/.git/COMMIT_EDITMSG
+|4,39,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
+-'  3  2  ~/.git/COMMIT_EDITMSG
+|4,39,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
+-'  3  2  ~/.git/COMMIT_EDITMSG
+|4,39,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
+-'  3  2  ~/.git/COMMIT_EDITMSG
+|4,39,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
+-'  3  2  ~/.git/COMMIT_EDITMSG
+|4,39,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
+-'  3  2  ~/.git/COMMIT_EDITMSG
+|4,39,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
+-'  3  2  ~/.git/COMMIT_EDITMSG
+|4,39,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
+-'  3  2  ~/.git/COMMIT_EDITMSG
+|4,39,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
+-'  3  2  ~/.git/COMMIT_EDITMSG
+|4,39,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
+-'  3  2  ~/.git/COMMIT_EDITMSG
+|4,39,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
 -'  3  2  ~/.git/COMMIT_EDITMSG
 |4,39,3,2,1775815229,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1775815209,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1775815209,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1775815209,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1775815209,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1775815209,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1775815209,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1775815209,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1775815209,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1775815209,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1775815209,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1775815209,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1775815209,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1775815209,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1775815209,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1775815209,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1775815209,"~/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/Jenkinsfile
+	*	1775815980	0
+	"	46	0
+	^	46	1
+	.	46	0
+	+	46	0
+
+> ~/CMakeLists.txt
+	*	1775815960	0
+	"	12	6
+	^	12	7
+	.	12	6
+	+	12	6
+
+> ~/tests/test_logic.cpp
+	*	1775815923	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	13	0
+
+> ~/src/main.cpp
+	*	1775815872	0
+	"	34	0
+	^	34	1
+	.	34	0
+	+	34	0
 
 > ~/.git/COMMIT_EDITMSG
 	*	1775815226	0
